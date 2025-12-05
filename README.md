@@ -2,7 +2,6 @@
 
 **Автор:** Grigorev Nikita 
 **Проект:** Практическое занятие №6 - UI/UX дизайн. Верстка приложения по готовому дизайну (Figma → Flutter)  
-**Репозиторий:** [https://github.com/Dremuchiy-web/PKS6.git](https://github.com/Dremuchiy-web/PKS6.git)
 
 ## Описание проекта
 
